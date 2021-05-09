@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(165, 155, 145);
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-image: url("https://news.usc.edu/files/2018/02/HarmfulBacteria_web.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white
+}
