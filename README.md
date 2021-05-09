@@ -6,8 +6,12 @@ The web page has been further customized for the fontin the jumbotron and a back
 
 The page has been deployed via gitpages here: https://atebha.github.io/Belly_Button/
 
-This is a screen shot of the page below. 
+This is a screen shots of the page below. 
 
+![Screen Shot 2021-05-09 at 12 58 16 AM](https://user-images.githubusercontent.com/50600624/117564652-014c6700-b062-11eb-9b81-34bf55da8cee.png)
+
+
+![Screen Shot 2021-05-09 at 12 58 27 AM](https://user-images.githubusercontent.com/50600624/117564661-06a9b180-b062-11eb-9272-8b3d7355fd2e.png)
 
 
 Challenges: 
